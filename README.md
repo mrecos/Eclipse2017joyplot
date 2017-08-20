@@ -9,3 +9,6 @@ So with the heavy lifting from `elevatr` and `ggjoy` the rest of the code is sim
 
 ![Eclispe2017joyplot](https://github.com/mrecos/Eclipse2017joyplot/blob/master/images/readme_plot.png)
 
+Playing with the colors is fun too...
+
+![Eclispe2017joyplot in orange](https://github.com/mrecos/Eclipse2017joyplot/blob/master/images/readme_orange.png)
